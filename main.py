@@ -1,0 +1,1 @@
+print( "Not Quite Latin Square".replace(' ','_') )
